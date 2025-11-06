@@ -1,5 +1,5 @@
-# 💫 About Me:
-## Hi there! 👋 I'm Emmanuel Oringe<br><br>🎓 Computer Science Student | Strathmore University  <br>💡 Passionate about software development, system design, and emerging tech  <br>🚀 Always learning and building cool projects  <br> ⚡ Fun Fact: I love building innovative projects that solve real-world problems!  
+#  About Me:
+## Hi there!  I'm Emmanuel Oringe<br><br>🎓 Computer Science Student | Strathmore University  <br>💡 Passionate about software development, system design, and emerging tech  <br>🚀 Always learning and building cool projects  <br> ⚡ Fun Fact: I love building innovative projects that solve real-world problems!  
 
 
 ## 🌐 Socials:
