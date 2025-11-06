@@ -1,5 +1,5 @@
 #  About Me:
-## Hi there!  I'm Emmanuel Oringe<br><br>🎓 Computer Science Student | Strathmore University  <br>💡 Passionate about software development, system design, and emerging tech  <br>🚀 Always learning and building cool projects  <br> ⚡ Fun Fact: I love building innovative projects that solve real-world problems!  
+## Hi there!  I'm Emmanuel Oringe<br><br> Computer Science Student | Strathmore University  <br> Passionate about software development, system design, and emerging tech  <br>Always learning and building cool projects  <br> ⚡ Fun Fact: I love building innovative projects that solve real-world problems!  
 
 
 ## 🌐 Socials:
@@ -12,14 +12,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dis-hunter&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dis-hunter&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dis-hunter&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/emmanueloringe) 
+
   
 
   
