@@ -15,7 +15,7 @@ I am an innovative Software Engineer and Computer Science student at Strathmore 
 ## Technical Ecosystem
 
 ### Core Competencies & Full-Stack Development
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 
 ### Data Science, AI & Databases
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Deep_Learning_/_LSTM-3F51B5?style=for-the-badge" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -23,6 +23,42 @@ I am an innovative Software Engineer and Computer Science student at Strathmore 
 ### Tooling, Infrastructure & DevOps
 <img src="https://img.shields.io/badge/Cisco_IOS-175D8C?style=for-the-badge&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
+---
+
+## Featured Projects
+
+### 🌊 GeoStream (Active Development)
+A real-time geospatial flood risk assessment and visualization platform built to safeguard infrastructure and communities across Nairobi County.
+*   **Intelligence:** Deploys deep learning (LSTM networks) and predictive analytics to map flood vulnerability from complex meteorological and topographical datasets.
+*   **Architecture:** Features an interactive dashboard with multi-layered data visualizations to translate environmental data into immediate, actionable warnings.
+*   **Tech Stack:** Python, PostgreSQL, Geospatial Modeling libraries, Machine Learning pipelines.
+
+### 📊 [Beacon Finance](https://github.com/eoringe/Beacon-Finance)
+An automated, double-entry accounting and financial engine built to serve as a high-integrity ledger system for clinic or hospital management platforms.
+*   **Ledger Engine:** Implements rules-based automatic posting, standard immutability, and transactional validation guards ensuring total debits equal total credits.
+*   **Fintech & Intelligence:** Features OCR-powered receipt parsing via the OCR.space API, error-cleaning algorithms, and a 70%+ confidence fuzzy supplier matching layout.
+*   **Data Sync:** Maintains active dual-database synchronization pipelines targeting secondary medical/hospital records with dynamic format-agnostic JSON invoice parsing.
+*   **Tech Stack:** Laravel (PHP), Filament (Livewire & Tailwind), PostgreSQL, PHPUnit.
+
+### 👶 [Beacon mHealth Tracker](https://github.com/eoringe/Beacon-Mhealth)
+An offline-first mobile health companion app designed for caregivers and clinicians to monitor early childhood growth milestones and health indices.
+*   **Clinical Screening:** Features interactive trackers for CDC milestones, automated WHO-standard Z-score growth calculation, and an age-adaptive rapid ASD screener.
+*   **Offline-First Sync:** Deploys a robust background local caching architecture via a queue-based `syncService` to handle spotty connectivity gracefully.
+*   **Reporting:** Generates clinical-grade, layout-optimized PDF exports for patient health summaries alongside an integrated conversational AI assistant.
+*   **Tech Stack:** React Native (Expo & Router), Firebase, React Native Reanimated.
+
+### 🚀 [Task Connect](https://github.com/eoringe/TaskConnect)
+A dynamic mobile service marketplace seamlessly connecting clients with local, verified service providers ("Taskers") in real time.
+*   **Security & Trust:** Engineered a rigorous multi-step onboarding and ID verification flow for service providers backed by an administrative oversight panel.
+*   **Fintech & Safety:** Native integration of M-PESA STK push notifications alongside secure escrow payment handling and biometric/2FA security features.
+*   **AI Support:** Implemented *Ella*, an intelligent conversational AI assistant that natively guides users through mobile payment flows and support requests.
+*   **Tech Stack:** React Native, Firebase, Node.js.
+
+### 🏥 [KingaBora Child Vaccination System](https://github.com/eoringe/KingaBora-Vaccination-System)
+A multi-tenant web ecosystem designed to replace paper-reliant health workflows by digitizing and centralizing vital pediatric health and vaccination history.
+*   **Role-Based Workflows:** Architected custom modules for Parents (growth chart tracking and history), Nurses (automated SMS/email vaccine reminders and registrations), and Admins.
+*   **Business Tools:** Built an administrative inventory manager to securely track hospital drug supply alongside live financial metrics for weekly revenue auditing.
+*   **Tech Stack:** Python (Flask), JavaScript, PHP, Firebase, HTML5/CSS3.
 ## GitHub Stats
 *Note: These data visualization modules automatically update in real time based on your active version control contributions.*
 
